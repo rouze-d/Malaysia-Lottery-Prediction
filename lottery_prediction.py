@@ -51,6 +51,11 @@ class GameConfig:
             "name": "Star 6/50",
             "max_num": 50,
             "k": 6
+        },
+        "4": {
+            "name": "Lotto88 6/45",
+            "max_num": 45,
+            "k": 6
         }
     }
     
@@ -73,10 +78,10 @@ class GameConfig:
     def get_user_choice(cls):
         """Get user choice for game"""
         while True:
-            choice = input("\nSelect game (1-3): ").strip()
+            choice = input("\nSelect game (1-4): ").strip()
             if choice in cls.GAMES:
                 return choice
-            print("❌ Invalid choice. Please select 1, 2, or 3.")
+            print("❌ Invalid choice. Please select 1, 2, 3, or 4.")
 
 # =============================
 # Configuration
@@ -89,7 +94,7 @@ class Config:
         self.N_NUMBERS = game["max_num"]
         self.K = game["k"]
         self.DATE_COL = "DrawDate"
-        self.MIN_DRAWS = 50
+        self.MIN_DRAWS = 45
         print(f"\n🎯 Selected: {self.GAME_NAME}")
         print(f"📊 Numbers: 1-{self.N_NUMBERS}")
         print(f"🎰 Pick: {self.K} numbers")
