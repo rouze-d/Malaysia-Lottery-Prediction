@@ -1,10 +1,12 @@
 ### Malaysia-Lottery-Prediction
-Malaysia Lottery TOTO Analysis with Prediction<br>
+Malaysia Lottery TOTO/Lotto88 Analysis with Prediction<br>
 - Supreme 6/58
 - Power 6/55
 - Star 6/50
+- Lotto88 6/45
 
 https://www.sportstoto.com.my/<br>
+https://www.diriwan88.com/cms/<br>
 
 
 ### Analysis Method
@@ -24,9 +26,10 @@ https://www.sportstoto.com.my/<br>
 
 #### Data
 Date: (DD/MM/YY)
-- supreme_6-58.csv (20-03-2010) - (24-01-2026)
-- power_6-55.csv (31-09-2009) - (24-01-2026)
-- star_6-50.csv (21-10-2017) - (24-01-2026)
+- supreme_6-58.csv (20-03-2010) - (04-02-2026)
+- power_6-55.csv (31-09-2009) - (04-02-2026)
+- star_6-50.csv (21-10-2017) - (04-02-2026)
+- lotto88_6-45.csv (02-01-2002) - (04-02-2026)
 
 #### Good Luck
 
