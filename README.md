@@ -25,6 +25,8 @@ https://www.diriwan88.com/cms/<br>
 13. Hybrid Ensemble (Weighted)
 
 ### Analysis Method [lottery_prediction-2.py]
+Monte Carlo theory:<br>
+https://en.wikipedia.org/wiki/Monte_Carlo_method<br>
 you can edit line 13, 14 and 15 according to your own settings.
 <br>(such as the top number of popular numbers to be used and the number of predictions and the number of simulations used)
 
