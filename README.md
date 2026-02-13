@@ -9,7 +9,7 @@ https://www.sportstoto.com.my/<br>
 https://www.diriwan88.com/cms/<br>
 
 
-### Analysis Method
+### Analysis Method [lottery_prediction.py]
 1. Hot Numbers
 2. Cold Numbers
 3. Random Weighted
@@ -24,12 +24,16 @@ https://www.diriwan88.com/cms/<br>
 12. Ensemble (Prob Weighted)
 13. Hybrid Ensemble (Weighted)
 
+### Analysis Method [lottery_prediction-2.py]
+you can edit line 13, 14 and 15 according to your own settings.
+<br>(such as the top number of popular numbers to be used and the number of predictions and the number of simulations used)
+
 #### Data
 Date: (DD/MM/YY)
-- supreme_6-58.csv (20-03-2010) - (04-02-2026)
-- power_6-55.csv (31-09-2009) - (04-02-2026)
-- star_6-50.csv (21-10-2017) - (04-02-2026)
-- lotto88_6-45.csv (02-01-2002) - (04-02-2026)
+- supreme_6-58.csv (20-03-2010) - (11-02-2026)
+- power_6-55.csv (31-09-2009) - (11-02-2026)
+- star_6-50.csv (21-10-2017) - (11-02-2026)
+- lotto88_6-45.csv (02-01-2002) - (11-02-2026)
 
 #### Good Luck
 
