@@ -25,17 +25,17 @@ https://www.diriwan88.com/cms/<br>
 13. Hybrid Ensemble (Weighted)
 
 ### Analysis Method [lottery_prediction-2.py]
-Monte Carlo theory:<br>
+#### Monte Carlo theory:
 https://en.wikipedia.org/wiki/Monte_Carlo_method<br>
-you can edit line 13, 14 and 15 according to your own settings.
-<br>(such as the top number of popular numbers to be used and the number of predictions and the number of simulations used)
+#### Markov chain Monte Carlo:
+https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo<br>
 
 #### Data
 Date: (DD/MM/YY)
-- supreme_6-58.csv (20-03-2010) - (11-02-2026)
-- power_6-55.csv (31-09-2009) - (11-02-2026)
-- star_6-50.csv (21-10-2017) - (11-02-2026)
-- lotto88_6-45.csv (02-01-2002) - (11-02-2026)
+- supreme_6-58.csv (20-03-2010) - (19-04-2026)
+- power_6-55.csv (31-09-2009) - (19-04-2026)
+- star_6-50.csv (21-10-2017) - (19-04-2026)
+- lotto88_6-45.csv (02-01-2002) - (19-04-2026)
 
 #### Good Luck
 
